@@ -51,7 +51,7 @@
 - 与 Geocode API、客户表联动  
 **技术栈**：Python · pandas · FastAPI · DuckDB  
 **成果**：
-- 异常地址识别准确率提升 92% → 99%
+- 异常地址识别准确率提升 → 99%
 - 人工地址映射两周工作量降低为十几分钟完成
 🔗 [查看仓库](https://github.com/ciby9833/translator/tree/main/frontend/src)
 
