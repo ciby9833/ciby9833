@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Location-🌏%20Jakarta%20%7C%20Shanghai-brightgreen" />
 </p>
 
-<h1 align="center">Hi, I'm Xavier Wu，中文名 (吴川) 👋</h1>
+<h1 align="center">Hi, I'm 吴川，英文名 (Xavier Wu) 👋</h1>
 <p align="center">
   Product Manager | Geo Data & AI Platform | Logistics Intelligence
 </p>
